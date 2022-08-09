@@ -1,0 +1,1 @@
+Atividades práticas realizadas no curso de Python
